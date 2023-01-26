@@ -12,7 +12,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.netflixclone"
+        applicationId "com.vstream"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1
